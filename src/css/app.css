@@ -44,12 +44,12 @@ div.demo-lazy {
 }
 
 /* Tab Bar */
-.ios .tabbar .tab-link:not(.tab-link-active) .icon-fill {
+/* .ios .tabbar .tab-link:not(.tab-link-active) .icon-fill {
   display: none;
 }
 .ios .tabbar .tab-link.tab-link-active .icon:not(.icon-fill) {
   display: none;
-}
+} */
 
 /* FAB Morph */
 .demo-fab-sheet {
