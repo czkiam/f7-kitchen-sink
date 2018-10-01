@@ -46,6 +46,7 @@
         'orange',
         'gray',
         'black',
+        'white',
       ];
       return {
         colors,
