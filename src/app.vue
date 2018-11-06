@@ -32,10 +32,10 @@ export default {
       f7Params: {
         theme,
         routes,
-        view: {
-          pushState: true,
-          pushStateRoot:'/kitchen-sink/',
-        },
+        // view: {
+        //   pushState: true,
+        //   pushStateRoot:'/kitchen-sink/',
+        // },
         id: 'io.framework7.testapp'
       }
     };
